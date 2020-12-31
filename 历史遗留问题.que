@@ -1,0 +1,7 @@
+幻方，逆序对
+C++短路性
+···cpp
+if(a||b||c)
+中只要a为truth，b,c将不再计算
+if(a&&b&&c)
+中只要a为flash,b,c将不再计算
