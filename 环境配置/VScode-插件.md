@@ -14,3 +14,4 @@ token
 *   uploading images from explorer: `Ctrl + Alt + E`
     
 *   uploading an image from input box: `Ctrl + Alt + O`
+<!--  -->
